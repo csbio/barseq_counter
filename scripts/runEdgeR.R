@@ -1,4 +1,3 @@
-#!/project/chadm/Scott/Software/R/R-3.3.2/bin/Rscript --vanilla
 #!/usr/bin/Rscript --vanilla
 # The user may need to change their Rscript directory, but make sure
 # that the --vanilla option is enabled to ensure reproducibility!
